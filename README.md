@@ -1,2 +1,2 @@
 ﻿# calculator
-ㅇㄹㄷㅂㄹㅈ
+git 실습
