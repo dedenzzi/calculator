@@ -10,7 +10,7 @@ int main(int argc, char* argv[])
 	int number1, number2, result;
 	char operator;
 	
-	printf("Please enter a expression: ");
+	printf("나다");
 	scanf("%d %c %d", &number1, &operator, &number2);
 	
 	switch (operator)
@@ -37,7 +37,7 @@ int main(int argc, char* argv[])
 int add(int number1, int number2)
 {
 	//TODO implementation
-	return 0;
+	return number1+number2;
 }
  
 int sub(int number1, int number2)
